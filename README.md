@@ -16,7 +16,7 @@ This team project is a casual Android puzzle game built during Noor Bootcamp by 
 - Level 4 — 6 pairs
 
 ## Download
-[Download APK](https://drive.google.com/file/d/1DFUDBK23VDkwmYQ2KjmNoFhAAn8awORX/view?usp=drive_link)
+[Download Game](https://drive.google.com/file/d/1DFUDBK23VDkwmYQ2KjmNoFhAAn8awORX/view?usp=drive_link)
 
 ## Built With
 - Unity 6
