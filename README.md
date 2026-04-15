@@ -18,6 +18,9 @@ This team project is a casual Android puzzle game built during Noor Bootcamp by 
 ## Download
 [Download Game](https://drive.google.com/file/d/1DFUDBK23VDkwmYQ2KjmNoFhAAn8awORX/view?usp=drive_link)
 
+## Gameplay
+[Game Video](https://screenrec.com/share/2cYWMw8uSO)
+
 ## Built With
 - Unity 6
 - C#
