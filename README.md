@@ -1,4 +1,4 @@
-# ShoesMaster
+# ShoesMatch
 
 This team project is a casual Android puzzle game built during Noor Bootcamp by Noor Games. Match pairs of same-colored shoes and send them to the correct box before the container fills up. Fill the container with unmatched colors and it's Game Over!
 
